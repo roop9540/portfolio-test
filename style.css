@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.heading-container{
+   background-color: black;
+   color: white;
+   padding: 20px;
+}
+.name{
+    font-size: 30px;
+    
+}
+.header-options{
+    float: right;
+    margin-top: 10px;
+    color: rgb(193, 190, 190);
+}
+.header-options2{
+    margin: 10px;
+}
+
+.image{
+    margin: 20px;
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    
+}
+.name-image{
+    font-size: 50px;
+    font-weight: 20px;
+    margin-left: 50px;
+   
+    
+}
+.university-name{
+    margin-left: 50px; 
+    font-size: 20px;  
+    color: aqua;
+}
+
+.chill{
+    margin-left: 70px;
+    
+}
+
+.icon{
+    margin: 10px;
+    font-size: 30px;
+}
+.parent{
+    display: flex;
+  
+}
+h1{
+    margin: 40px;
+    font-size: 60px;
+}
+.details{
+    margin: 40px;
+}
+
